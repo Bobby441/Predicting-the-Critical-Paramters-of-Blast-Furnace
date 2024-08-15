@@ -9,3 +9,7 @@ This project involves predictive modeling for the operation of a blast furnace, 
   Modeling: Implementing machine learning models to predict key operational metrics.<br>
   Evaluation: Assessing model performance through various metrics and visualizations.<br>
   Visualization: Plotting predictions against actual values to gauge accuracy and model efficacy.
+  
+# Results
+The model successfully predicts the CO/CO2 ratio with a high degree of accuracy.<br>
+Visualizations show the model’s predictions versus actual values, highlighting the performance.
